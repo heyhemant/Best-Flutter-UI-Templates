@@ -1,6 +1,6 @@
 # best_flutter_ui_templates
 
-A flutter project that can be useful for beginers to understand the core concepts of flutter and UI designing.
+A flutter project that can be useful for beginers to understand the core concepts of flutter and UI designing also.
 
 ## Getting Started
 
